@@ -8,6 +8,11 @@ Here, I'm collecting a number of links to useful resources for Web-based VR and 
 # Examples
 
 * https://www.webvrexperiments.com/
+* https://vr.chromeexperiments.com/
+
+# Tools
+
+* https://vizor.io/
 
 # Code
 
