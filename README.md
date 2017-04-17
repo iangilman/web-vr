@@ -17,3 +17,9 @@ Here, I'm collecting a number of links to useful resources for Web-based VR and 
 # Code
 
 * https://aframe.io/
+* https://vr.chromeexperiments.com/ (Example code at bottom of page)
+
+# 3D Modeling
+
+* https://www.blender.org/
+* https://ephtracy.github.io/
