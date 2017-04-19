@@ -25,3 +25,7 @@ Here, I'm collecting a number of links to useful resources for Web-based VR and 
 
 * https://www.blender.org/
 * https://ephtracy.github.io/
+
+# Seattle
+
+* https://www.vrcoop.org/
