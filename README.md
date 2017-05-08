@@ -10,16 +10,18 @@ Here, I'm collecting a number of links to useful resources for Web-based VR and 
 * https://www.webvrexperiments.com/
 * https://vr.chromeexperiments.com/
 * https://virtualart.chromeexperiments.com/
+* https://sketchfab.com/
 
 # Tools
 
 * https://vizor.io/
+* https://playcanvas.com/
 
 # Code
 
 * https://aframe.io/
 * https://vr.chromeexperiments.com/ (Example code at bottom of page)
-* https://webvr.info/samples/
+* https://webvr.info/
 * https://viromedia.com/ (not web delivery, but web tech) 
 
 # 3D Modeling
