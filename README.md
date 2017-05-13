@@ -23,6 +23,7 @@ Here, I'm collecting a number of links to useful resources for Web-based VR and 
 * https://vr.chromeexperiments.com/ (Example code at bottom of page)
 * https://webvr.info/
 * https://threejs.org/examples/?q=webvr
+* https://github.com/borismus/webvr-boilerplate
 * https://viromedia.com/ (not web delivery, but web tech) 
 * https://github.com/edsilv/virtex
 
