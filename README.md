@@ -19,7 +19,7 @@ Here, I'm collecting a number of links to useful resources for Web-based VR and 
 
 # Code
 
-* https://aframe.io/
+* https://aframe.io/ and https://github.com/aframevr/awesome-aframe
 * https://vr.chromeexperiments.com/ (Example code at bottom of page)
 * https://webvr.info/
 * https://threejs.org/examples/?q=webvr
