@@ -33,6 +33,7 @@ Here, I'm collecting a number of links to useful resources for Web-based VR and 
 * https://ephtracy.github.io/
 * http://pixologic.com/sculptris/
 * https://clara.io/
+* http://www.smoothie-3d.com/
 
 # Photogrammetry
 
