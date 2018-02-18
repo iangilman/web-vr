@@ -28,6 +28,7 @@ Here, I'm collecting a number of links to useful resources for Web-based VR and 
 * https://github.com/borismus/webvr-boilerplate
 * https://viromedia.com/ (not web delivery, but web tech) 
 * https://github.com/edsilv/virtex
+* https://www.supermedium.com/blog/webvr-guidelines
 
 # 3D Modeling
 
